@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+                \||/
+                |  @___oo
+      /\  /\   / (__,,,,|
+     ) /^\) ^\/ _)
+     )   /^\/   _)
+     )   _ /  / _)
+ /\  )/\/ ||  | )_)
+<  >      |(,,) )__)
+ ||      /    \)___)\
+ | \____(      )___) )___
+  \______(_______;;; __;;;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipecoste&theme=vue-dark)](https://git.io/streak-stats)
 <!--
