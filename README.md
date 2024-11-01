@@ -1,5 +1,6 @@
 ## 👋 Hi there, I am Felipe
 - 🌱 I’m currently learning Web Development with Javascript and React -
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipecoste&theme=vue-dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=felipecoste&theme=vue-dark))
 <!--
 **felipecoste/felipecoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
