@@ -1,5 +1,5 @@
 ## 👋 Hi there, I am Felipe
-- 🌱 I’m currently learning Web Development with Javascript and React -
+- 🌱 I’m currently learning Web Development with Javascript and React 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipecoste&theme=vue-dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=felipecoste&theme=vue-dark))
 <!--
