@@ -7,6 +7,4 @@
 </p>
 
  
-<span align="center">   
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipecoste&theme=vue-dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=felipecoste&theme=vue-dark))
-</span>
