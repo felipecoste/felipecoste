@@ -8,4 +8,4 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=felipecoste&theme=vue-dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=felipecoste&theme=vue-dark))
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipecoste&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
