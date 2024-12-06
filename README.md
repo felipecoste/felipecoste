@@ -8,4 +8,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=felipecoste&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=felipecoste&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
