@@ -1,10 +1,11 @@
-##  👋 Hi there, I am Felipe
-- Full Stack Developer.
-<p align="center">   
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+# 💻 Sobre mí  
+Soy un **desarrollador Full Stack** con conocimientos en **React y JavaScript** para el frontend, y **Python** para el backend. Me interesa crear aplicaciones web dinámicas, eficientes y con una buena experiencia de usuario.  
 
+Me gusta seguir aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades y desarrollar soluciones creativas. En mi perfil encontrarás proyectos donde aplico lo que voy aprendiendo y sigo creciendo como desarrollador.  
+
+## 🔧 Tecnologías  
+- **Frontend:** React | JavaScript | Bootstrap | Material UI  
+- **Backend:** Python | Docker  
+- **Herramientas:** Git  
+
+🚀 **Siempre abierto a nuevos desafíos y colaboraciones.**
