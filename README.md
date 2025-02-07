@@ -5,7 +5,7 @@ Me gusta seguir aprendiendo y explorando nuevas tecnologías para mejorar mis ha
 
 ## 🔧 Tecnologías  
 -  React | JavaScript | Material UI | Bootstrap | HTML5 | CCS3
--  Python | Flask | Docker | MySQL
+-  Python | Flask | Node.js | Docker | MySQL
 -  Git | GitHub
 
 🚀 **Siempre abierto a nuevos desafíos y colaboraciones.**
